@@ -3,7 +3,7 @@
 I'm an IT student  in UCC :mortar_board: (Universidad Cristobal Colon), I'm from Veracruz, Mexico.  
 I'm currently learning Python :snake: and trying to learn new skills like, how to build multi-platforms apps with it 💻📱.
 My biggest dream is to work in one of the best technological develpment companies in the world, like meta, youtube..., maybe difficult, but not impossible.  
-He-Him
+He/Him
 
 
 
