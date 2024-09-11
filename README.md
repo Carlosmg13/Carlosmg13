@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm an IT student  in UCC :mortar_board: (Universidad Cristobal Colon), I'm from Veracruz, Mexico.  
+I'm currently learning Python :snake: and trying to learn new skills like, how to build multi-platforms apps with it 💻📱.
+My biggest dream is to work in one of the best technological develpment companies in the world, like meta, youtube..., maybe difficult, but not impossible.  
+He-Him
+
+
+
 <!--
 **Carlosmg13/Carlosmg13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
